@@ -38,7 +38,7 @@ public class Academie {
 
 //    	Enseignant enseignant = new Enseignant("piolet", "yves",collPrinc,collSec,adresse1, matiere, "juin2019","0636259845");
     	
-//    	Enseignant.changerCollege(collSec,Caractere.principal);
+//    	enseignant.changerCollege(collSec,Caractere.principal);
 //    	enseignant.demenager(adresse4);
 //    	departement.setRespo(enseignant);
     	
